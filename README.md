@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Levi, aka @StoneObelisk
+- 👀 I’m interested in learning programming so I can make games, build databases and just make things in general!
+- 🌱 I’m currently learning Python3
